@@ -10,4 +10,5 @@
 extern const uint8_t ArialMT_Plain_10[] PROGMEM;
 extern const uint8_t ArialMT_Plain_16[] PROGMEM;
 extern const uint8_t ArialMT_Plain_24[] PROGMEM;
+extern const uint8_t Dialog_Plain_30[] PROGMEM;
 #endif
